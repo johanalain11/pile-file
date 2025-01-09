@@ -78,6 +78,7 @@ typedef struct file FI_LE;
 >[!NOTE]
 >
 >* Ajouter un système de manipulation de plusieurs piles/files.
+>* Ajouter une interface graphique et des simulations de pile et file suivant les opérations effectuées.
 >* Ajouter une validation plus robuste des entrées utilisateur.
 >* Gérer les erreurs potentielles, comme des entrées invalides ou des dépassements de mémoire.
 >* Ajouter un système de sauvegarde et de chargement des données dans un fichier.
