@@ -45,7 +45,7 @@ make
 
 ---
 ## Structure de données
-Chaque pile est représenté par une structure etudiant :
+Chaque pile est représenté par une structure pile :
 ```c
 #define index 5
 struct pile
@@ -54,6 +54,17 @@ struct pile
     int sommet;
 };
 typedef struct pile PILE;
+```
+Chaque file est représenté par une structure file :
+```c
+#define index 5
+struct file
+{
+    int tab[index];
+    int sommet;
+    int tete;
+};
+typedef struct file FI_LE;
 ```
 
 ---
