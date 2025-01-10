@@ -5,6 +5,8 @@ Ce projet est une application en langage C qui permet d'entrer les données de l
 
 ## Fonctionnalités
 
+![Fonctionnalités](./fonctionnalités.png "Fonctionnalités du programme")
+
 - Ajouter des valeurs à un pile/file.
 - Supprimer une valeur dans une pile/file.
 - Afficher la liste des valeurs enregistrées.
